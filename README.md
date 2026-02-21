@@ -90,13 +90,14 @@ python app.py
 
 **System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
+**Architecture**:-
 *Frontend sends user input to Flask backend which processes and stores data in SQLite database and returns results.*
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
-*User uploads waste → system stores data → searches collectors → displays results.*
+![Workflow]()
+*User uploads ![image-1771636110957](https://github.com/user-attachments/assets/fdb1859f-d412-40ca-a0db-85851cc59048)
+waste → system stores data → searches collectors → displays results.*
 
 ---
 
