@@ -1,7 +1,7 @@
 
-
+'markdown
 <p align="center">
-  <img src="/home/user/Downloads/garbage.jpg/
+  <img src="/home/user/Downloads/garbage.jpg
 " alt="Project Banner" width="100%">
 </p>
 
