@@ -1,7 +1,8 @@
 
 
 <p align="center">
-  <img src=".IMG-20260220-WA0010" alt="Project Banner" width="100%">
+  <img src="/home/user/Downloads/garbage.jpg/
+" alt="Project Banner" width="100%">
 </p>
 
 # Waste Locator System 🎯
@@ -15,7 +16,7 @@
 - Member 2: Gifty Chacko - College of Engineering Kallooppara
 
 ### Hosted Project Link
-[Add your project hosted link here]
+[https://hack1-uf06.onrender.com]
 
 ### Project Description
 Waste Locator System is a web platform that connects citizens with nearby garbage collectors. Users can upload waste photos with location details so collectors can quickly find and clean the area.
@@ -26,7 +27,7 @@ Waste often remains uncollected because people don’t know who to contact, and 
 ### The Solution
 The system allows users to upload waste images and location data. It automatically matches reports with registered collectors serving that area and displays them instantly for quick response.
 
----
+
 
 ## Technical Details
 
@@ -36,7 +37,7 @@ The system allows users to upload waste images and location data. It automatical
 - Languages used: HTML, CSS, Python
 - Frameworks used: Flask
 - Libraries used: SQLite3
-- Tools used: VS Code, Git, Browser
+- Tools used: VS Code, Github, Browser
 
 ---
 
@@ -48,7 +49,7 @@ List the key features of your project:
 - Location-based collector matching
 - Feedback and rating system
 
----
+
 
 ## Implementation
 
@@ -73,14 +74,17 @@ python app.py
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Homepage of the system*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot1])
+*Homepage of the system*(<img width="1920" height="1080" alt="Screenshot from 2026-02-21 03-52-50" src="https://github.com/user-attachments/assets/18145083-cec4-44b8-bfe3-decd441bcbf5" />
+
+![Screenshot2]()
 *Waste upload page*
+<img width="1920" height="1080" alt="Screenshot from 2026-02-21 03-55-27" src="https://github.com/user-attachments/assets/19ea7702-aa84-46a4-b6e9-a794df6f75d9" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Collector matching results*
+![Screenshot3]()
+*Collector matching results*<img width="1920" height="1080" alt="Screenshot from 2026-02-21 03-57-02" src="https://github.com/user-attachments/assets/5dd9959f-2cce-47a6-8ea9-ba470811fcff" />
+
 
 #### Diagrams
 
